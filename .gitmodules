@@ -1,0 +1,6 @@
+[submodule "developer-platform-sdk-examples"]
+	path = developer-platform-sdk-examples
+	url = git@github.com:crypto-com/developer-platform-sdk-examples.git
+[submodule "cdc-ai-agent-signer-app"]
+	path = cdc-ai-agent-signer-app
+	url = git@github.com:crypto-com/cdc-ai-agent-signer-app.git
