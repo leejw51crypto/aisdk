@@ -1,7 +1,7 @@
 ## aisdk cheatsheet
 
 ## run
-- prepare two keys OPENAI_API_KEY, CRONOS_ZKEVM_TESTNET_API  <- ai, explorer key
+- prepare two keys OPENAI_API_KEY, CRONOS_ZKEVM_TESTNET_API as env variables <- ai, explorer key
 - git clone --recursive git@github.com:leejw51crypto/aisdk.git
 - git submodule update --init --recursive <- already cloned?
 - cd cdc-ai-agent-signer-app : yarn, yarn dev
